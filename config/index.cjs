@@ -22,14 +22,14 @@ module.exports = {
       "festivals": [
         {
           "type": "*生日",
-          "name": "卓卓生日",
-          "date": "02-23",
+          "name": "卓卓",
+          "date": "01-26",
           "year": "2025"
         },
         {
           "type": "*生日",
           "name": "笑笑生日",
-          "date": "01-25",
+          "date": "12-26",
           "year": "2025"
         }
       ],
