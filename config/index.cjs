@@ -80,7 +80,7 @@ module.exports = {
   ],
   "SWITCH": {
     "weather": true,
-    "holidaytts": false,
+    "holidaytts": true,
     "CIBA": true,
     "oneTalk": false,
     "earthyLoveWords": false,
