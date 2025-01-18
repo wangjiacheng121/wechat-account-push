@@ -1,6 +1,6 @@
 module.exports = {
   "APP_ID": "wxcefc46b918e71299",
-  "APP_SECRET": "0a1a5fc69ddf493876d1ceb88f8a7dd7",
+  "APP_SECRET": "cf8ef6c48e6f469fc965ec17336b3a11",
   "IS_SHOW_COLOR": false,
   "CALLBACK_TEMPLATE_ID": "jyNYiufIBIreItAJrVweyfH8CEGgX7BG_35w_ygTw9g",
   "CALLBACK_USERS": [
