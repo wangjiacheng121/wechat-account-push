@@ -1,3 +1,4 @@
+// config.js
 module.exports = {
   "APP_ID": "wxcefc46b918e71299",
   "APP_SECRET": "cf8ef6c48e6f469fc965ec17336b3a11",
@@ -13,8 +14,38 @@ module.exports = {
     {
       "name": "卓宝",
       "id": "oDAVL7Ij93TuXRhjHtoGf18DWbkA",
-      "useTemplateId": "McXwP3M58bzoZ4Lvxfux_CEvrU9cPcDN7kep6jlIp2k",
-      "province": "河北",
+      "useTemplateId": "\tMcXwP3M58bzoZ4Lvxfux_CEvrU9cPcDN7kep6jlIp2k",
+      "province": "河北省",
+      "city": "张家口",
+      "horoscopeDate": "02-20",
+      "horoscopeDateType": "今日",
+      "openUrl": "https://github.com/wangjiacheng121/wechat-account-push",
+      "festivals": [
+        {
+          "type": "*生日",
+          "name": "卓卓",
+          "date": "01-26",
+          "year": "2025"
+        },
+        {
+          "type": "*生日",
+          "name": "笑笑",
+          "date": "12-26",
+          "year": "2024"
+        }
+      ],
+      "customizedDateList": [
+        {
+          "keyword": "在一起",
+          "date": "2024-11-01"
+        }
+      ]
+    },
+    {
+      "name": "笑猫",
+      "id": "oDAVL7Ij93TuXRhjHtoGf18DWbkA",
+      "useTemplateId": "\tMcXwP3M58bzoZ4Lvxfux_CEvrU9cPcDN7kep6jlIp2k",
+      "province": "河北省",
       "city": "张家口",
       "horoscopeDate": "02-20",
       "horoscopeDateType": "今日",
@@ -28,23 +59,34 @@ module.exports = {
         },
         {
           "type": "*生日",
-          "name": "笑笑生日",
+          "name": "笑笑",
           "date": "12-26",
-          "year": "2025"
+          "year": "2024"
+        },
+        {
+          "type": "节日",
+          "name": "在一起",
+          "date": "11-01",
+          "year": "2024"
         }
       ],
-      "customizedDateList": []
+      "customizedDateList": [
+        {
+          "keyword": "在一起",
+          "date": "2024-11-01"
+        }
+      ]
     }
   ],
   "SWITCH": {
     "weather": true,
-    "holidaytts": true,
+    "holidaytts": false,
     "CIBA": true,
-    "oneTalk": true,
+    "oneTalk": false,
     "earthyLoveWords": false,
     "momentCopyrighting": false,
     "poisonChickenSoup": false,
-    "poetry": true,
+    "poetry": false,
     "horoscope": true,
     "birthdayMessage": true
   }
