@@ -14,7 +14,7 @@ module.exports = {
     {
       "name": "卓宝",
       "id": "oDAVL7Ij93TuXRhjHtoGf18DWbkA",
-      "useTemplateId": "v6BDPwuPRY2OqQqb21XM11VWJ0GRBx8hpf_VlZmAeSA",
+      "useTemplateId": "ov1v9TAgGpdwbMbSZh43Of71MUS19iL-plu2lXXf3_4",
       "province": "河北省",
       "city": "张家口",
       "horoscopeDate": "02-20",
@@ -44,7 +44,7 @@ module.exports = {
     {
       "name": "笑猫",
       "id": "oDAVL7Ij93TuXRhjHtoGf18DWbkA",
-      "useTemplateId": "v6BDPwuPRY2OqQqb21XM11VWJ0GRBx8hpf_VlZmAeSA",
+      "useTemplateId": "ov1v9TAgGpdwbMbSZh43Of71MUS19iL-plu2lXXf3_4",
       "province": "河北省",
       "city": "张家口",
       "horoscopeDate": "02-20",
