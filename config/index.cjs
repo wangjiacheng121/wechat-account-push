@@ -14,7 +14,7 @@ module.exports = {
     {
       "name": "卓宝",
       "id": "oDAVL7Ij93TuXRhjHtoGf18DWbkA",
-      "useTemplateId": "McXwP3M58bzoZ4Lvxfux_CEvrU9cPcDN7kep6jlIp2k",
+      "useTemplateId": "v6BDPwuPRY2OqQqb21XM11VWJ0GRBx8hpf_VlZmAeSA",
       "province": "河北省",
       "city": "张家口",
       "horoscopeDate": "02-20",
@@ -36,7 +36,7 @@ module.exports = {
       ],
       "customizedDateList": [
         {
-          "keyword": "在一起",
+          "keyword": 'love_day',
           "date": "2024-11-01"
         }
       ]
@@ -44,7 +44,7 @@ module.exports = {
     {
       "name": "笑猫",
       "id": "oDAVL7Ij93TuXRhjHtoGf18DWbkA",
-      "useTemplateId": "McXwP3M58bzoZ4Lvxfux_CEvrU9cPcDN7kep6jlIp2k",
+      "useTemplateId": "v6BDPwuPRY2OqQqb21XM11VWJ0GRBx8hpf_VlZmAeSA",
       "province": "河北省",
       "city": "张家口",
       "horoscopeDate": "02-20",
@@ -56,23 +56,11 @@ module.exports = {
           "name": "卓卓",
           "date": "01-26",
           "year": "2025"
-        },
-        {
-          "type": "*生日",
-          "name": "笑笑",
-          "date": "12-26",
-          "year": "2024"
-        },
-        {
-          "type": "节日",
-          "name": "在一起",
-          "date": "11-01",
-          "year": "2024"
         }
       ],
       "customizedDateList": [
         {
-          "keyword": "在一起",
+          "keyword":'love_day',
           "date": "2024-11-01"
         }
       ]
