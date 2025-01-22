@@ -17,7 +17,7 @@ module.exports = {
       "id": "SCT268131THz7Yj7Mi2ykML0doe3TfQDxu",
       "useTemplateId": "0001",
       "province": "河北省",
-      "city": "张家口",
+      "city": "蔚县",
       "horoscopeDate": "02-20",
       "horoscopeDateType": "今日",
       "openUrl": "https://github.com/wangjiacheng121/wechat-account-push",
